@@ -1,0 +1,46 @@
+.index_1{
+	background:url(images/main.jpg);
+	background-repeat:no-repeat; 
+	background-attachment: fixed;
+	background-size:100% 100%;
+	margin:0;
+	padding:0;
+}
+.index_2{
+		width:100%;
+		text-align:center;
+		bottom:120px;
+		position:absolute;
+	}
+.index_3{
+	font-family:KaiTi,STKaiti,KaiTi_GB2312;
+	color:#FFF;
+	text-align:center;
+	width:100%;
+	height:auto;
+	float:left;
+	position:absolute;
+	font-size:1.5em;
+	top:-140%;
+	}
+.index_3 img{
+	width:100%;
+	height:auto;
+	}
+.index_4{
+	text-align:center;
+	width:60%;
+	height:60%;
+	float:left;
+	left:24%;
+	position:absolute;
+	top:-400%;
+	}	
+.index_4 img{
+	width:100%;
+	height:auto;
+	}
+	
+		
+		
+
